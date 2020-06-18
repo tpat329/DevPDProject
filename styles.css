@@ -1,0 +1,47 @@
+:root{
+    font-size: 18px;
+}
+html,body {
+    margin: 0;
+    padding: 1;
+}
+/* Styling for the body of website*/ 
+body {
+    background-color:#BB3627;
+     font-family: 'Oxygen', sans-serif;
+
+}
+header {
+    height: 500px;
+    background: url(https://www.musinglyyours.com/wp-content/uploads/2018/08/DI-hands-2082x1041.jpg);
+    background-size: cover;
+}
+header h1 {
+    text-align: center;
+    
+}
+h2,h3,h4,h5,h6 {
+     font-family: 'Suez One', serif;
+}
+main {
+    display: flex;
+    
+}
+main img {
+    height: 300px; 
+}
+nav li{
+    margin: 10ox;
+    padding: 5px;
+    border: 1pz solid white;
+}
+#content{
+    margin: 10px;
+    border: solid 2x;
+    padding: 10px;
+}
+header {
+    margin: 10px;
+    border: dotted 4px black;
+    padding: 10px;
+}
